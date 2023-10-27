@@ -36,7 +36,7 @@ npm run dev
 ### View Results:
 You can check output in your console terminal.
 
-![Coupon-Code-Generator-TS](https://github.com/mehmetnuribolat/Coupon-Code-Generator/assets/145845943/ba22b420-2329-40fb-8515-7acb93b2977c)
+![Coupon-Code-Generator-TS](https://github.com/mehmetnuribolat/Coupon-Code-Generator/assets/145845943/1139a622-f564-4127-82bb-979847472872)
 
 ## 🤝 Contributing
 
